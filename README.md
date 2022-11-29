@@ -32,4 +32,4 @@ Así sucesivamente, hasta el infinito. Por regla, la sucesión de Fibonacci se e
 
 n = n-1 + n-2.
 
-
+https://www.kaggle.com/code/marapaulaparra/notebookfb76dfce9f
